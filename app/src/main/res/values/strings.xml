@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello_World_In_Kotlin</string>
+    <string name="stephen_intro">Hello World! My name is Stephen and Android Rocks!</string>
+    <string name="button_text">Say Hello</string>
+</resources>
