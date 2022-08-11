@@ -28,7 +28,7 @@ https://drive.google.com/file/d/1BAW1plfyb6Q-PHeVM79FHj805KzdBrD4/view?usp=shari
 
 Describe any challenges encountered while building the app.
 
-The challenge to building the app was that I wasn't the Kotlin language.
+The challenge to building the app wasn't the Kotlin language.
 I never developed in Kotlin but it was pretty easy to pick up.
 The issue was Android Studio. I wasn't familiar with the IDE
 so it took me quite a bit of time to get familiar with it to do the necessary work.
